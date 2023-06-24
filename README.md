@@ -8,5 +8,3 @@ Before and through the college, I played with Basic and Pascal and sometime with
 
 I worked over 20 years on accounting, non-accounting applications, and other open source programs using my mother programming language Pascal.
 
-I have 3 children (Lina, Aya, Omar) 2 girls and a boy
-I hope to have my own company to provide cheap, a high quality software.
